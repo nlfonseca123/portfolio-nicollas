@@ -6,6 +6,9 @@ ola eu sou nicollas lemos, e esse é meu perfil,tenho 16 anos, nasci no rio gran
 * autorias
 * projetos independentes
 
+![curriculo](https://github.com/nlfonseca123/portfolio-nicollas/blob/main/CURRICULUM%20NICOLLAS%20%20(1)_page-0001.jpg)
+
+
 # atividades
 [Atividade JOptionPane](https://github.com/nlfonseca123/portfolio-nicollas/blob/main/atividade%20JOptionPane.java) 
 * escolhi esta atividade pois tive mais facilidade para realizar ela
